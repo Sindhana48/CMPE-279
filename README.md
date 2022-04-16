@@ -5,11 +5,15 @@
 2. Nikitha Kallepalli (015355977)
 
 ## Instructions to execute the file 
-Server:
-<p> gcc -o server server.c </p> <br>
+
+Run the following commands from the terminal of your VM
+<p>
+ 
+**Server:**
+<p> gcc -o server server.c </p> 
 <p> sudo ./server </p>
 
-Client:
-<p> gcc -o client client.c </p> <br>
+**Client:**
+<p> gcc -o client client.c </p> 
  <p> ./client </p> 
 

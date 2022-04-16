@@ -6,10 +6,10 @@
 
 ## Instructions to execute the file 
 Server:
-gcc -o server server.c
-./server
+<p> gcc -o server server.c </p> <br>
+<p> sudo ./server </p>
 
 Client:
-gcc -o client client.c
-./client
+<p> gcc -o client client.c </p> <br>
+ <p> ./client </p> 
 
